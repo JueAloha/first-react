@@ -1,0 +1,59 @@
+header {
+    background-color: rgb(254, 204, 0);
+    height: 20vh;
+    width: 100%;
+    margin: auto;
+}
+
+#logo {
+    margin-left: 10vw;
+    margin-top: 2vh
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 4vh;
+    font-family: montserratSemiBold,Arial,Sans-Serif;
+}
+
+
+span{
+    color: rgb(179, 179, 179);
+    font-family: Arial,Sans-Serif;
+    font-weight: bold
+}
+
+.infos {
+    color:rgb(70,130,180)
+}
+
+.details {
+    margin-top: 2vh
+}
+
+#main {
+    display: flex;
+    margin: 3vh auto auto 9vw;
+}
+
+#second {
+    margin-left: 1vw
+}
+.black {
+    background-color: black
+}
+
+.grey {
+    background-color: grey
+}
+
+#third {
+    display: flex;
+    flex-direction: column
+}
+
+h2 {
+    font-size: 30px
+}
